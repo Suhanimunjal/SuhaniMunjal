@@ -12,29 +12,29 @@
 
 <br>
 
-## 🧠 About Me
+## About Me
 
 Cybersecurity-focused developer (B.Tech ECE, IGDTUW). I break web apps for a living (VAPT) and build the tools that come after — security-first, both ways.
 
-- 🕵️ Pentesting & code review — OWASP Top 10, PoCs, CVSS scoring
-- 🛰️ Digital & drone forensics — acquisition, chain-of-custody, artifact analysis
-- 🛠️ Builder side — ML security tools, an AI recon agent, full-stack platforms
-- 🚩 CTF player on Hack The Box
+- Pentesting & code review — OWASP Top 10, PoCs, CVSS scoring
+- Digital & drone forensics — acquisition, chain-of-custody, artifact analysis
+- Builder side — ML security tools, an AI recon agent, full-stack platforms
+- CTF player on Hack The Box
 
 > "Exploit the vulnerability, not the deadline."
 
 <br>
 
-## 🚀 What I'm Building
+## What I'm Building
 
 | Project | Description | Result |
 |---|---|---|
-| ⚡ **Shield** | Real-time ML-based API firewall, ~95% detection accuracy | 🥇 1st, HashHacks 8.0 |
-| 🔎 **AFDF** | Disk image anti-forensics framework, flags wipes & hidden volumes | 🥉 3rd, NFSU Hackathon |
+| **Shield** | Real-time ML-based API firewall, ~95% detection accuracy | 🥇 1st, HashHacks 8.0 |
+| **AFDF** | Disk image anti-forensics framework, flags wipes & hidden volumes | 🥉 3rd, NFSU Hackathon |
 
 <br>
 
-## 🎓 Certs & Wins
+## Certs & Wins
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Cybersecurity-focused developer (B.Tech ECE, IGDTUW). I break web apps for a liv
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Cybersecurity-focused developer (B.Tech ECE, IGDTUW). I break web apps for a liv
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Cybersecurity-focused developer (B.Tech ECE, IGDTUW). I break web apps for a liv
 
 <br>
 
-## 🌐 Find Me
+## Find Me
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Cybersecurity-focused developer (B.Tech ECE, IGDTUW). I break web apps for a liv
 
 <div align="center">
 
-*"Recon it. Break it. Patch it. Repeat. 🔁"*
+*"Recon it. Break it. Patch it. Repeat. "*
 
 <img src="https://komarev.com/ghpvc/?username=Suhanimunjal&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=000000" />
 
