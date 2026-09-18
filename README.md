@@ -17,18 +17,13 @@ NFSU — Cybersecurity (VAPT) & Drone Forensics Intern
 Cynox Security LLP — Trainee Security Analyst
 Cisco × Grastech — Cybersecurity Internship Training
 🚀 What I'm Building
-
 ⚡ Shield — Real-time ML-based API firewall, ~95% detection accuracy. 🥇 1st, HashHacks 8.0
-
 🔎 AFDF — Disk image anti-forensics framework, flags wipes & hidden volumes. 🥉 3rd, NFSU Hackathon
-
 🦇 GOTHAM — Agentic recon harness (subfinder, nmap, nuclei & more) that runs a full VAPT workflow end-to-end
-
 🏭 MakeConnect — B2B RFQ marketplace, full-stack app + real-time chat
-
 🚩 CTF Writeups
-
-Strutted — RCE via CVE-2017-5638, root escalation Heal — privesc via misconfigured cron job
+Strutted — RCE via CVE-2017-5638, root escalation
+Heal — privesc via misconfigured cron job
 
 📖 Full writeups on Medium (linked below)
 
@@ -41,7 +36,7 @@ Strutted — RCE via CVE-2017-5638, root escalation Heal — privesc via misconf
 <a href="https://linkedin.com/in/suhani-munjal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:suhanimunjal97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 📊 GitHub Stats
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Suhanimunjal&show_icons=true&theme=react&hide_border=true&count_private=true" /> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhanimunjal&layout=compact&theme=react&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhanimunjal&theme=react&hide_border=true" /> <div align="center">
+<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Suhanimunjal&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=1800" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhanimunjal&layout=compact&theme=react&hide_border=true&cache_seconds=1800" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhanimunjal&theme=react&hide_border=true" /> </div> <div align="center">
 
 "Recon it. Break it. Patch it. Repeat. 🔁"
 
